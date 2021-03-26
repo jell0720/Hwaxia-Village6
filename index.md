@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### 非常歡迎您光臨華夏六村-文山區專頁以下簡稱本網站，為了讓您能夠安心的使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策以保障您的權益，請您詳閱下列內容。
 
-You can use the [editor on GitHub](https://github.com/jell0720/Hwaxia-Village6/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 一、隱私權保護政策的適用範圍  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+隱私權保護政策內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。
 
-### Markdown
+### 二、個人資料的蒐集、處理及利用方式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   當您造訪本網站或使用本網站所提供之功能服務時，我們將視該服務功能性質，可能請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。
+*   本網站在您使用服務信箱、問卷調查等互動性功能時，會保留您所提供的姓名、電子郵件地址、聯絡方式及使用時間等。
+*   於一般瀏覽時，Facebook伺服器可能會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。
+*   為提供精確的服務，我們會將收集的問卷調查內容與Facebook提供資訊進行統計與分析，分析結果之統計數據或說明文字呈現，除供內部研究外，我們會視需要公佈統計數據及說明文字，但不涉及特定個人之資料。
+* 轉載與評論政府公開資訊、新聞媒體，木柵里包含華夏六村相關議題等內容，僅供參考。所有資訊係於發佈當日依合理之確信所為，但不保證其正確性，資訊亦可能隨時變更，將不會另行通知。如有錯漏或疏失，對於您瀏覽與張貼本網站之意見與影片、音訊、檔案等資訊，所造成之任何後果，不負任何法律責任，聲明僅供參考，請自行判斷真偽，保留拒絕他人瀏覽與張貼本網站之權利。 任何法律責任。亦不接受第三方要求或請託貼文、更改與撤換。
 
-```markdown
-Syntax highlighted code block
+### 三、資料之保護
 
-# Header 1
-## Header 2
-### Header 3
+*   網站及您的個人資料均為Facebook保護措施，你必須參照Facebook資料保護聲明。
+*   如因業務需要有必要委託其他單位提供服務時，本網站會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。
 
-- Bulleted
-- List
+### 四、網站對外的相關連結  
 
-1. Numbered
-2. List
+本網站的網頁提供其他網站的網路連結，您也可經由本網站所提供的連結，點選進入其他網站。但該連結網站不適用本網站的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。
 
-**Bold** and _Italic_ and `Code` text
+### 五、與第三人共用個人資料之政策
 
-[Link](url) and ![Image](src)
-```
+本網站絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+前項但書之情形包括不限於：
 
-### Jekyll Themes
+*   經由您書面同意。
+*   法律明文規定。
+*   為免除您生命、身體、自由或財產上之危險。
+*   與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集著依其揭露方式無從識別特定之當事人。
+*   當您在網站的行為，違反服務條款或可能損害或妨礙網站與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。
+*   有利於您的權益。
+*   本網站如委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jell0720/Hwaxia-Village6/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 六、隱私權保護政策之修正
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本網站隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。
